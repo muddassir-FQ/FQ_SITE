@@ -1,6 +1,6 @@
 {
   "hero": {
-    "eyebrow": "THE WORK",
+    "eyebrow": "THE WORKS",
     "headlineLead": "Proven",
     "headlineOutlined": "Outcomes!",
     "body": "Client names kept confidential. Outcomes, numbers, and timelines are real.",
@@ -22,6 +22,11 @@
   "filters": {
     "allTabLabel": "ALL WORK"
   },
+  "finalCta": {
+    "heading": "Ready to write your own outcome?",
+    "body": "Let’s discuss how Frontier Quotient can support your business growth.",
+    "buttonLabel": "BOOK A CONSULTATION"
+  },
   "grid": {
     "problemLabel": "PROBLEM",
     "outcomeLabel": "OUTCOME",
@@ -30,10 +35,5 @@
   "detail": {
     "backLabel": "← Back to Case Studies",
     "stepsLabel": "STEPS"
-  },
-  "finalCta": {
-    "heading": "Ready to write your own outcome?",
-    "body": "Let’s discuss how Frontier Quotient can support your business growth.",
-    "buttonLabel": "BOOK A CONSULTATION"
   }
 }
